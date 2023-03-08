@@ -7,7 +7,8 @@ Primeiro projeto desenvolvido durante o bootcamp Ignite da Rocketseat.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>
 </p>
 
 <br>
@@ -16,7 +17,11 @@ Primeiro projeto desenvolvido durante o bootcamp Ignite da Rocketseat.
   <img alt="projeto Ignite Feed" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻 Projeto
+
+O Ignite Feed é um projeto simples de feed de rede social onde podemos ver nosso perfil, postagens e aplaudir, visualizar ou remover um comentário. Também pode-se criar um novo comentário dentro de um postagem já existente mas não é possível criar novas postagens.
+
+## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -24,9 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS Modules
 - Phosphor Icons
 
-## 💻 Projeto
+## 🚀 Como executar
 
-O Ignite Feed é um projeto simples de feed de rede social onde podemos ver nosso perfil, postagens e aplaudir, visualizar ou remover um comentário. Também pode-se criar um novo comentário dentro de um postagem já existente mas não é possível criar novas postagens.
+Para executar a aplicação é necessário usar os seguintes comandos no terminal:
+- `npm install` para instalar as dependências da aplicação.
+- `npm run dev` para executar a aplicação.
 
 ## 🔖 Layout
 
