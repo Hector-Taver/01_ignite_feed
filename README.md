@@ -1,7 +1,7 @@
 <h1 align="center"> Ignite Feed </h1>
 
 <p align="center">
-Primeiro projeto desenvolvido durante o bootcamp Ignite da Rocketseat.
+Primeiro projeto de React da trilha 2022 do bootcamp Ignite da Rocketseat.
 </p>
 
 <p align="center">
